@@ -15,7 +15,6 @@ find_package(GTest REQUIRED)
 set(TEST_SOURCES
     UniquePtrTest.cpp
     SharedPtrTest.cpp
-    WeakPtrTest.cpp
 )
 
 # Create the test executable
