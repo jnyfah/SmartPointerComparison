@@ -11,6 +11,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # Define the source files for the library
 set(LIB_SOURCES
     src/UniquePtr.cpp
+    src/SharedPtr.cpp
+    src/WeakPtr.cpp
 )
 
 # Create the shared library

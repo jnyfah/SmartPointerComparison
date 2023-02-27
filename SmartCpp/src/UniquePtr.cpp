@@ -1,5 +1,5 @@
-#ifndef UNIQUEPTR_HPP
-#define UNIQUEPTR_HPP
+#ifndef UNIQUEPTR_CPP
+#define UNIQUEPTR_CPP
 
 template<typename T>
 class UniquePtr {
